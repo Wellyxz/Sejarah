@@ -11,8 +11,8 @@ const Header = () => {
   const menuItems = [
     { name: 'Home', href: '#hero' },
     { name: 'Profil', href: '#about' },
-    { name: 'Gagasan', href: '#skills' },
-    { name: 'Jejak Perjuangan', href: '#tools' },
+    { name: 'Jejak Perjuangan', href: '#jejakperjuangan' },
+    { name: 'Galeri', href: '#galeri' },
   ];
 
   return (

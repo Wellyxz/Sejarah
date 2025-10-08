@@ -5,22 +5,22 @@ import React from 'react';
 const galeriData = [
   { 
     title: 'Proklamasi Kemerdekaan', 
-    caption: 'Momen sakral 17 Agustus 1945 di Pegangsaan Timur 56.', 
+    caption: 'Momen sakral 17 Agustus 1945 di Pegangsaan Timur 56', 
     image: '/images/proklamasi.png' 
   },
   { 
     title: 'Konferensi Asia-Afrika (KAA)', 
-    caption: 'Konferensi Asia-Afrika di Bandung, 1955.', 
+    caption: 'Konferensi Asia-Afrika di Bandung, 1955', 
     image: '/images/KAA.png' 
   },
   { 
     title: 'Mencetuskan Pancasila', 
-    caption: 'Berpidato di sidang BPUPKI, 1 Juni 1945, saat melahirkan lima prinsip dasar.', 
+    caption: 'Berpidato di sidang BPUPKI, 1 Juni 1945, saat melahirkan lima prinsip dasar', 
     image: '/images/Pancasila.png' 
   },
   { 
     title: 'Dekrit Presiden ', 
-    caption: 'Soekarno membacakan dekritnya pada tanggal 5 Juli 1959.', 
+    caption: 'Soekarno membacakan dekritnya pada tanggal 5 Juli 1959', 
     image: '/images/Dekrit.png' 
   },
   { 
@@ -30,7 +30,7 @@ const galeriData = [
   },
   { 
     title: 'Pembangunan Monas', 
-    caption: 'Pembangunan Monumen Nasional (Monas), sebagai simbol cita-cita bangsa.', 
+    caption: 'Pembangunan Monumen Nasional (Monas), sebagai simbol cita-cita bangsa', 
     image: '/images/Monas.png' 
   },
 ];

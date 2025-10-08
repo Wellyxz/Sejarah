@@ -16,7 +16,7 @@ const perjuanganData = [
 
 const JejakPerjuangan = () => {
   return (
-    <section id="tools" className="relative py-20 bg-gray-950 text-white overflow-hidden border-t border-red-700/50">
+    <section id="jejakperjuangan" className="relative py-20 bg-gray-950 text-white overflow-hidden border-t border-red-700/50">
 
       <div className="container mx-auto px-4 relative z-10">
         <h2 className="text-center text-4xl font-extrabold mb-12 relative 

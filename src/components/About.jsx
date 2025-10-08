@@ -54,12 +54,12 @@ const About = () => {
                 <div className="bg-gray-900/70 p-6 rounded-xl shadow-xl border-l-4 border-white/70">
                     <h4 className="text-xl font-semibold text-white mb-2">Peran</h4>
                     <p className="text-gray-400 italic">
-                        <li>Sebagai pemimpin perjuangan kemerdekaan Indonesia.</li>
-                        <li>Sebagai penggagas dasar negara <em>Pancasila</em>.</li>
-                        <li>Sebagai proklamator kemerdekaan bersama Mohammad Hatta pada 17 Agustus 1945.</li>
-                        <li>Sebagai Presiden pertama Republik Indonesia (1945–1967).</li>
-                        <li>Sebagai penyatu bangsa Indonesia dari berbagai suku dan golongan.</li>
-                        <li>Sebagai tokoh diplomasi yang memperkenalkan Indonesia ke dunia internasional.</li>
+                        <li>Sebagai pemimpin perjuangan kemerdekaan Indonesia</li>
+                        <li>Sebagai penggagas dasar negara <em>Pancasila</em></li>
+                        <li>Sebagai proklamator kemerdekaan bersama Mohammad Hatta pada 17 Agustus 1945</li>
+                        <li>Sebagai Presiden pertama Republik Indonesia (1945–1967)</li>
+                        <li>Sebagai penyatu bangsa Indonesia dari berbagai suku dan golongan</li>
+                        <li>Sebagai tokoh diplomasi yang memperkenalkan Indonesia ke dunia internasional</li>
                     </p>
                 </div>
                 
